@@ -1,6 +1,6 @@
 # techchapter.fyi
 
-The employee handbook of Tech Chapter
+Tech Chapters medarbejder håndbog
 
 * [Alcohol](./alcohol.md)
 * [Mail](./email.md)
