@@ -1,6 +1,6 @@
 # techchapter.fyi
-Good stuff to know when working at Tech Chapter
 
+The employee handbook of Tech Chapter
 
 * [Alcohol](./alcohol.md)
 * [Mail](./email.md)
