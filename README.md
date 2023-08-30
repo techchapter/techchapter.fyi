@@ -1,12 +1,21 @@
 # techchapter.fyi
 
-Tech Chapters medarbejder håndbog
+Velkommen til Tech Chapters personalehåndbog.
 
-* [Alcohol](./alcohol.md)
-* [Mail](./email.md)
-* [Expense](./expense.md)
-* [Launch](./launch.md)
-* [Phone](./phone.md)
-* [Sickness](./sickness.md)
-* [Smoking](./smoking.md)
-* [Vacation](./vacation.md)
+Nej. Tech Chapter hylder ikke omfattende regler og politiker. Faktisk mener vi at tillid til din egen dømmekraft både er forudsætningen for en god arbejdsplads og er mere effektivt end regler og kontrol. Starter vi med følgende retningslinjer er vi kommet meget langt:
+
+- Udvis respekt og rimelighed for andre.
+- Er du i tvivl så tænk dig om. Er du stadig i tvivl, så spørg.
+- Lad være med ting, der gør at vi skal lave flere regler
+
+Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendige. Denne håndbog gengiver disse regler i takt med at de løbende defineres. Formatet er forsøgt holdt kort og præcist og uden for meget fyld.
+
+- [Alkohol](./alcohol.md)
+- [Digital overvågning](./overvaagning.md)
+- [E-mail](./email.md)
+- [Ferie](./vacation.md)
+- [Frokost](./launch.md)
+- [Rygning](./smoking.md)
+- [Sygdom](./sickness.md)
+- [Telefon](./phone.md)
+- [Udgifter](./expense.md)
