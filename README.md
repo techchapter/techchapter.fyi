@@ -15,6 +15,8 @@ Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendi
 - [E-mail](./email.md)
 - [Ferie](./vacation.md)
 - [Frokost](./launch.md)
+- [Hjemmearbejde](./hjemmearbejde.md)
+- [Løn](./salery.md)
 - [Rygning](./smoking.md)
 - [Sygdom](./sickness.md)
 - [Telefon](./phone.md)
