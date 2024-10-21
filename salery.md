@@ -13,7 +13,7 @@ Tech Chapter har vi en dogmatisk og åben tilgang til løn. Konsulenters løn er
 |    5+ år |       5 |    62.500 |              Ja |
 
 Modellen for overskudsdeling er følgende:
-- Når årets resultat foreligger beslutter aktionærer hvilket beløb, der skal udlodes.
+- Når årets resultat foreligger beslutter aktionærerne hvilket beløb, der skal udloddes.
 - Den ene halvdel af beløbet går til overskudsdeling, den anden til aktionærer.
 - Konsulenter på løntrin 5, der ikke er nyansat i regnskabsåret modtager overskudsdeling.
 - Overskudet vægtes efter de måneder, konsulenten har arbejdet mindst halvdelen af mulige arbejdsdage. Ferie medregenes, orlov meregnes ikke. 
