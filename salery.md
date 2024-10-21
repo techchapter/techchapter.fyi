@@ -21,4 +21,4 @@ Modellen for overskudsdeling er følgende:
 
 Efter seks måneders ansættelse indgår du i Tech chapters pensionsordning med 10% firmabetalt pension. Egenbetalingen er frivilig.
 
-Derudover tilbyder vi en række goder, herunder choose-you-own-device(s), 12 ugers betalt barsel, fleksibel feriepolitik, firmakreditkort, sundheds- og tandforsikring, medarbejder telefon og internet, frokostordning, mulighed for firmabil, pendlerkort, med videre.
+Derudover tilbyder vi en række goder, herunder choose-your-own-device(s), 12 ugers betalt barsel, fleksibel feriepolitik, firmakreditkort, sundheds- og tandforsikring, medarbejder telefon og internet, frokostordning, mulighed for firmabil, pendlerkort, med videre.
