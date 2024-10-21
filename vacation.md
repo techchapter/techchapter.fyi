@@ -6,6 +6,11 @@ Ferieønsker skal registreres i Zenegy, tidligst muligt. Tech Chapter forbeholde
 
 Tech Chapter forbeholder sig retten til at anvise afholdt ferie under særlige omstændigheder.
 
-Tech Chapter tillader at man afholder op til tre ugers betalt ferie på forskud med senere modregning efter ferielovens bestemmelser.
+Tech Chapter tillader at man afholder op til fem ugers betalt ferie på forskud med senere modregning efter ferielovens bestemmelser.
 
 Månedslønnede medarbejdere har fem årlige feriefridage, der kan afholdes efter den almindelige ferie.
+Feriefridage registreres som ferie i Zenegy, der laver følgende prioritering:
+ 1) Optjent ferie
+ 2) Ferie på forskud
+ 3) Feriefridage
+ 4) Egenbetalt ferie
