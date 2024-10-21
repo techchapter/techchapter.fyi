@@ -1,6 +1,6 @@
 # Frokost
 
-Tech Chapter tilbyder alle medarbejdere frokost på kontoret til 400 kr per måned (2023 pris). Frokosten tilbydes som buffet og planlægges af Sandra og Jean. Er en af de to fraværende leveres frokosten af enten Sandwichpigen (33915143) eller Vandkunsten Sandwich (33139040) i København og Les Baguette (28453741) i Odense.
+Tech Chapter tilbyder alle medarbejdere frokost på kontoret til 400 kr per måned (2024 pris). Frokosten tilbydes som buffet og planlægges af Sandra og Jean. Er en af de to fraværende leveres frokosten af enten Sandwichpigen (33915143) i København og Les Baguette (28453741) i Odense.
 
 Ved arbejde hos kunder er der mulighed for at købe mad i kundens kantine ved brug af pleokortet.
 
