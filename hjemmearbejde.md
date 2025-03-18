@@ -1,6 +1,6 @@
 # Hjemmearbejde
 
-Det forventes at alle medarbejdere arbejder fra kontoret i åbningstiden (9:30-15:30) når det er muligt og mindst en dag ugenligt fastlagt af Tech Chapter. Formålet er at styrke det faglige og sociale fællesskab i Tech Chapter - ikke kun for dig, men også for dine kollegaer. Samtidig at skabe et attraktivt kontormiljø og at lette vidensdeling om små og store emner. Enddelig skal kontoret bemandes for at kunne modtage besøgende, varer og passe telefonen.
+Det forventes at alle medarbejdere arbejder fra kontoret i åbningstiden (9:30-15:30) når det er muligt og mindst en dag ugenligt fastlagt af Tech Chapter. Formålet er at styrke det faglige og sociale fællesskab i Tech Chapter - ikke kun for dig, men også for dine kollegaer. Samtidig at skabe et attraktivt kontormiljø og at lette vidensdeling om små og store emner. Endelig skal kontoret bemandes for at kunne modtage besøgende, varer og passe telefonen.
 
 Flere har opgaver det kræver tilstedeværelse hos kunder. Vi bestræber os på at holde dette på højst 3 dage ugentligt, men der kan være undtagelser herfor. Prøv gerne at aftale faste mødedage med kunden, i den udstrækning dette er muligt.
 
