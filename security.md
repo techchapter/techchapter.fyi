@@ -115,6 +115,6 @@ Fejldeling, spoofing/BEC og ukrypteret afsendelse kan lække kundedata/forretnin
 ## Enheder & adgang (baseline)
 
 - **Lås enheder** når de efterlades. Aktiver automatisk låsning efter 5 minutters inaktivitet.
-- **Opdater software**: Telefon, OS, Browser og apps skal løbende holdes opdateret for at
+- **Opdater software**: Telefon, OS, Browser og apps skal løbende holdes opdateret for at mindske risikoen for angreb gennem kendte sårbarheder.
 - **Full-disk encryption** skal slåes til på alle enheder.
 - **Aktiver find my iPhone/Device** på mobile enheder.
