@@ -22,7 +22,7 @@ For at beskytte Tech Chapter og vores kunder bedst muligt er det vigtigt, at all
 
 De fleste kompromitteringer starter med password-genbrug eller phishing, som giver angribere adgang til konti. MFA reducerer risikoen markant, men virker kun, hvis den er aktiveret og brugt korrekt.
 
-Fålgende retningslinjer skal overholdes:
+Følgende retningslinjer skal overholdes:
 
 - **Brug 1Password som eneste password manager**: Anvend aldrig post-it, notepad, chrome password manager, apple keystore el. lign. TOTP skal ligeledes anvendes gennem 1Password. Brug ikke Google Authenticator, Duo, m.v.
 
