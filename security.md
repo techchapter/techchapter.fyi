@@ -49,7 +49,7 @@ Følgende retningslinjer skal overholdes:
 
 - **Ved mistanke om kompromis**: Skift password, log ud af alle sessions, tilbagekald tokens, anmeld via incident-flowet straks.
 
-- **Print din Emergency Kit** (PDF), placer den i en forseglet konvolut og opbevar den i Tech Chapters pengeskab. Kodeordet skal ikke opbevares sammen med emergency kit, men evt. i et pengeskab pá Tech Chapters andet kontor.
+- **Print din Emergency Kit** (PDF), placer den i en forseglet konvolut og opbevar den i Tech Chapters pengeskab. Kodeordet skal ikke opbevares sammen med emergency kit, men evt. i et pengeskab på Tech Chapters andet kontor.
 
 ## Phishing awareness
 
