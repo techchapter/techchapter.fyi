@@ -3,14 +3,14 @@
 Tech Chapter har vi en dogmatisk og åben tilgang til løn. Konsulenters løn er indelt i løntrin efter samlet professionel IT-erfaring:
 
 | Erfaring | Løntrin | Månedsløn | Overskudsdeling |
-|----------|---------|-----------|-----------------|
-| < 0.5 år |       0 |    38.500 |             Nej |
-|   < 1 år |     0,5 |    41.000 |             Nej |
-|   < 2 år |       1 |    43.500 |             Nej |
-|   < 3 år |       2 |    47.900 |             Nej |
-|   < 4 år |       3 |    52.000 |             Nej |
-|   < 5 år |       4 |    57.200 |             Nej |
-|    5+ år |       5 |    62.500 |              Ja |
+| -------- | ------- | --------- | --------------- |
+| < 0.5 år | 0       | 40.000    | Nej             |
+| < 1 år   | 0,5     | 42.600    | Nej             |
+| < 2 år   | 1       | 45.200    | Nej             |
+| < 3 år   | 2       | 49.800    | Nej             |
+| < 4 år   | 3       | 54.100    | Nej             |
+| < 5 år   | 4       | 59.500    | Nej             |
+| 5+ år    | 5       | 65.000    | Ja              |
 
 Modellen for overskudsdeling er følgende:
 - Når årets resultat foreligger beslutter aktionærerne hvilket beløb, der skal udloddes.
