@@ -1,11 +1,13 @@
 # Telefon
 
-Arbejdstelefoner udleveres til medarbejdere for arbejdsrelaterede formål, og må anvendes privat i rimeligt omfang. Det er dog ikke tilladt at bruge arbejdstelefonen til overtakserede tjenester, der ikke har arbejdsmæssig relevans.
+Arbejdstelefoner udleveres til medarbejdere til arbejdsrelaterede formål og må anvendes privat i begrænset og rimeligt omfang. Det er ikke tilladt at bruge arbejdstelefonen til overtakserede tjenester eller køb, der ikke har arbejdsmæssig relevans.
 
-Tech Chapter anvender Relatel som mobil leverandør, der opererer på TDCs net. Foruden almindeligt simkort udleveres et datasimkort til brug for fx iPad eller mobilt modem.
+Tech Chapter anvender Relatel som mobiludbyder, der opererer på TDC’s netværk.
+Foruden et almindeligt SIM-kort udleveres et datasimkort til brug for f.eks. iPad eller mobilt modem.
 
-Det er medarbejderens ansvar at sikre, at der ikke pålægges virksomheden ekstra udgifter i forbindelse med roaming eller udlandstelefoni. Dette indebærer at være opmærksom på takster og at slå roaming fra, når det er relevant.
+Det er medarbejderens ansvar at sikre, at der ikke pålægges virksomheden ekstraudgifter i forbindelse med roaming eller udlandstelefoni. Dette indebærer at være opmærksom på gældende takster og at deaktivere roaming, når det er relevant.
 
-Tech Chapter forbeholder sig retten til at kræve kompensation for misbrug af firmatelefonen i grove tilfælde.
+Tech Chapter forbeholder sig retten til at kræve kompensation i tilfælde af groft eller bevidst misbrug af firmatelefonen.
 
-Vær opmærksom på, at indgående opkald fra vores hovednumre kan være indstillet til at blive optaget til dokumentation af indgåede aftaler eller til andre arbejdsrelaterede formål. Ligeledes registreres opkaldshistorik i forbindelse med Relatels specifikation af faktura.
+Vær opmærksom på, at indgående opkald via virksomhedens hovednumre kan være indstillet til optagelse med henblik på dokumentation af indgåede aftaler eller andre arbejdsrelaterede formål.
+Ligeledes registreres opkaldshistorik og forbrug som led i Relatels fakturaspecifikation.
