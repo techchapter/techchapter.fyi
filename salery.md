@@ -20,7 +20,7 @@ Modellen for overskudsdeling er følgende:
 - Overskuddet fordeles proportionelt efter antal måneder, hvor konsulenten har arbejdet mindst halvdelen af de mulige arbejdsdage. Ferie medregenes. Orlov medregnes ikke.
 - Overskudsdelingen udbetales i løbet af det efterfølgende regnskabsår.
 
-Efter seks måneders ansættelse indgår du i Tech Chapter’s pensionsordning med 10% firmabetalt pension. Egenbetaling er frivillig og kan tilvælges efter aftale.
+Efter seks måneders ansættelse indgår medarbejdere i Tech Chapter’s pensionsordning med 10% firmabetalt pension. Egenbetaling er frivillig og kan tilvælges efter aftale. Pension og forsikringer gælder ikke for kontraktansatte, studentermedhjælpere eller praktikanter.
 
-Derudover tilbyder vi en række personalegoder, herunder:
+Derudover tilbyder vi en række personalegoder for fastansatte funktionærer, herunder:
 choose-your-own-device, 12 ugers betalt barsel, fleksibel feriepolitik, firmakreditkort, sundheds- og tandforsikring, medarbejdertelefon og internet, frokostordning, mulighed for firmabil, pendlerkort m.v.
