@@ -11,6 +11,7 @@ Nej. Tech Chapter hylder ikke omfattende regler og politiker. Faktisk mener vi a
 Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendige. Denne håndbog gengiver disse regler i takt med at de løbende defineres. Formatet er forsøgt holdt kort og præcist og uden for meget fyld.
 
 - [Alkohol](./alcohol.md)
+- [Barns sygdom](./childsickness.md)
 - [Digital overvågning](./overvaagning.md)
 - [E-mail](./email.md)
 - [Ferie](./vacation.md)
