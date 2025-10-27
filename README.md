@@ -18,6 +18,7 @@ Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendi
 - [Hjemmearbejde](./hjemmearbejde.md)
 - [Løn](./salery.md)
 - [Rygning](./smoking.md)
+- [Sikkerhed](./security.md)
 - [Sygdom](./sickness.md)
 - [Telefon](./phone.md)
 - [Udgifter](./expense.md)
