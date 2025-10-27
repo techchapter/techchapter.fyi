@@ -20,5 +20,6 @@ Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendi
 - [Rygning](./smoking.md)
 - [Sikkerhed](./security.md)
 - [Sygdom](./sickness.md)
+- [Tavshedspligt](./confidentiality.md)
 - [Telefon](./phone.md)
 - [Udgifter](./expense.md)
