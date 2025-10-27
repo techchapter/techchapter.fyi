@@ -4,6 +4,6 @@ Tech Chapter tilbyder alle medarbejdere frokost på kontoret til 400 kr per mån
 
 Ved arbejdsrelaterede aktiviteter uden for kontoret fx kundebesøg, kan frokost købes med firmakortet.
 
-Såfremt du er i transport ved frokosttid, fx i forbindelkse med et kundemøde, er der mulighed for at køde takeaway på firmakortet.
+Såfremt du er i transport ved frokosttid, fx i forbindelse med et kundemøde, er der mulighed for at køde takeaway på firmakortet.
 
-Ved undtagelsesvist overarbejde senere end kl 1730, er der desuden mulighed for at købe takeaway på firmakortet.
+Ved nødvendigt overarbejde senere end kl 1800, er der desuden mulighed for at købe et almindeligt måltid aftensmad (luksusbespisning undtaget) på firmakortet.
