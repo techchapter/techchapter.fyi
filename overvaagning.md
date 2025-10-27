@@ -2,7 +2,7 @@
 
 Elektroniske låse samt tyverialarmer på Virksomhedens kontorer logger hændelser, såsom oplåsning af døre samt til- og frakobling af tyverialarm.
 
-Der er etableret videoovervågning af adgangsveje på vores kontorer.  Videoer slettes automatisk efter 35 dage.
+Der er etableret videoovervågning af adgangsveje på vores kontorer. Videoer slettes automatisk efter 35 dage.
 
 Data om tilsluttede enheder, anvendte tjenester og datamængder på IT-netværket logges og gemmes i op til seks måneder.
 

@@ -6,4 +6,4 @@ Tech Chapter forbeholder sig retten til at åbne din e-mail konto, fx i forbinde
 
 E-mail beskeder til og fra udvalgte kunder og samarbejdspartnere bliver automatsik journaliseret i Tech Chapter's CRM system, Close, hvor alle medarbejdere der udfører kunderelaterede opgaver har adgang.
 
-Det er strengt forbudt at indstille Close til at journalisere medarbejderes e-mails, eller andre e-mail adresser der må formodes at kunne indeholde personlige oplysninger. 
+Det er strengt forbudt at indstille Close til at journalisere medarbejderes e-mails, eller andre e-mail adresser der må formodes at kunne indeholde personlige oplysninger.

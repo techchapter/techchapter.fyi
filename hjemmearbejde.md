@@ -4,6 +4,6 @@ Det forventes at alle medarbejdere arbejder fra kontoret i åbningstiden (9:30-1
 
 Flere har opgaver det kræver tilstedeværelse hos kunder. Vi bestræber os på at holde dette på højst 3 dage ugentligt, men der kan være undtagelser herfor. Prøv gerne at aftale faste mødedage med kunden, i den udstrækning dette er muligt.
 
-Hjemmearbejde er muligt 1-2 dage ugenligt, såfremt det ikke koliderer med kunders behov eller faste mødedage og arrengementer i Tech Chapter. Planlagt hjemmearbejde skal varsles i god tid og senest den foregående arbejdsdag inden kl 15. 
+Hjemmearbejde er muligt 1-2 dage ugenligt, såfremt det ikke koliderer med kunders behov eller faste mødedage og arrengementer i Tech Chapter. Planlagt hjemmearbejde skal varsles i god tid og senest den foregående arbejdsdag inden kl 15.
 
 Såfremt du føler dig sløj men ikke syg, har barn syg eller på anden måde er forhindret i at møde på kontoret er hjemmearbejde ligeledes en mulighed.
