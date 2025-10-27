@@ -1,6 +1,6 @@
 # Udgifter
 
-Ved ansættelse modtager du et mastercard, pleokortet, til brug for arbejdsrelaterede udgifter. Kortet er personligt og må alene anvendes til brug for arbejdsrelaterede udgifter, fx anskaffelser af arbejdsudstyr, frokostordning, kursusudgifter og repræsentation. Bemærk det er kun tilladt at anvende pleokortet i forbindelse med frokost, i kunders kantiner eller dage, hvor du er på vej til eller fra et kundemøde ved frokosttid.
+Ved ansættelse modtager du et eller flere firmakort, til brug for arbejdsrelaterede udgifter. Kortet er personligt og må alene anvendes til brug for arbejdsrelaterede udgifter, fx anskaffelser af arbejdsudstyr, frokostordning, kursusudgifter og repræsentation. Bemærk det er kun tilladt at anvende firmakortet i forbindelse med frokost, i kunders kantiner eller dage, hvor du er på vej til eller fra et kundemøde ved frokosttid.
 
 Ved anvendelse af kortet skal der tilknyttes en faktura/kvittering, hvoraf det fremgår, hvad der er købt, varens pris samt momsbeløbet. Fakturaen skal udstedes til Tech Chapter ApS, cvr. 38578251. Kvittering fra dankortterminaler m.v. godtages ikke.
 

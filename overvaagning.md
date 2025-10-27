@@ -1,13 +1,14 @@
 # Digital overvågning af medarbejdere
 
-Elektroniske låse samt tyverialarmer på Virksomhedens kontorer logger hændelser, såsom oplåsning af døre samt til- og frakobling af tyverialarm.
+Elektroniske låse og tyverialarmer på virksomhedens kontorer logger hændelser såsom oplåsning af døre samt til- og frakobling af alarm.
 
-Der er etableret videoovervågning af adgangsveje på vores kontorer.  Videoer slettes automatisk efter 35 dage.
+Der er etableret videoovervågning af adgangsveje på kontorerne. Videooptagelser slettes automatisk efter 35 dage.
 
-Data om tilsluttede enheder, anvendte tjenester og datamængder på IT-netværket logges og gemmes i op til seks måneder.
+Data om tilsluttede enheder, anvendte tjenester og datamængder på virksomhedens IT-netværk logges og gemmes i op til seks måneder.
 
-Vores teleudbyder logger data om telefonopkald, sendte smser samt dataforbrug på medarbejdertelefonerne.
+Vores teleudbyder logger oplysninger om telefonopkald, sms’er og dataforbrug på medarbejdertelefonerne.
 
-Formålet med overvågning er forebygning og opklaring af uautoriseret adgang, fysisk eller virtuelt. I mistanke om tyveri, bedrageri eller anden grov overtrædelse af virksomhedens retningslinjer kan materialet anvendes til dokumentationsformål.
+Formålet med overvågningen er at forebygge og opklare uautoriseret adgang, fysisk eller digitalt.
+Ved mistanke om tyveri, bedrageri eller anden grov overtrædelse af virksomhedens retningslinjer kan materialet anvendes som dokumentation.
 
-Kun udvalgte medarbejdere, udpeget af virksomhedens direktør, har adgang til disse data, og data må kun bruge dem til dette formål.
+Kun udvalgte medarbejdere udpeget af virksomhedens direktør har adgang til disse data, og de må kun tilgå og anvende oplysningerne til dette formål.
