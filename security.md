@@ -94,7 +94,7 @@ Brug derfor AI med omtanke og del kun data, der du normalt ville kunne dele med 
   - **Kundedata/persondata** (GDPR), **kontrakter/SOW** med identificerbare oplysninger.
   - **Credentials/secrets** (passwords, tokens, SSH keys, kubeconfigs), log-uddrag med secrets.
   - **Proprietary kode/arkitektur**, interne diagrammer, netværks-/IAM-detaljer, **Terraform/k8s el lign. values** med miljøspecifik info.
-  - Screenshots af dashboards/alarms med PII eller miljønavne.
+  - Screenshots af dashboards/alarms med personoplysninger, miljønavne eller anden sensitiv information.
 
 ## E-mail & dokumenthåndtering
 
