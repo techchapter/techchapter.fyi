@@ -12,6 +12,7 @@ Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendi
 
 - [Alkohol](./alcohol.md)
 - [Barns sygdom](./childsickness.md)
+- [Deltidsansatte og timelønnede](./parttime.md)
 - [Digital overvågning](./overvaagning.md)
 - [E-mail](./email.md)
 - [Ferie](./vacation.md)
