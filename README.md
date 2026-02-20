@@ -16,7 +16,7 @@ Erfaring (og gældende lovgivning) har dog vist at regler til tider er nødvendi
 - [Digital overvågning](./overvaagning.md)
 - [E-mail](./email.md)
 - [Ferie](./vacation.md)
-- [Frokost](./launch.md)
+- [Frokost](./lunch.md)
 - [Hjemmearbejde](./hjemmearbejde.md)
 - [Løn](./salery.md)
 - [Rygning](./smoking.md)
